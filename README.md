@@ -14,13 +14,11 @@ Instagrid allows you to combine some differents photos from your libraby in diff
 
 2. Then pick photos from your library
 
-
-![Then pick photos from your library](https://im5.ezgif.com/tmp/ezgif-5-ca559322a1.gif)
-
+![Then pick photos from your library](https://im5.ezgif.com/tmp/ezgif-5-b8ec170286.gif)
 
 3. Finally, share or save the final result
 
-![Finally, share or save the final result](https://im5.ezgif.com/tmp/ezgif-5-b8ec170286.gif)
+![Finally, share or save the final result](https://im5.ezgif.com/tmp/ezgif-5-ca559322a1.gif)
 
 
 
