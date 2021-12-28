@@ -19,5 +19,5 @@ Instagrid lets you choose photos from your iPhone library, combine them within d
 
 3. Choose a layout
 
-![chooseLayout](https://im5.ezgif.com/tmp/ezgif-5-946d5535db.gif)
+![chooseLayout](https://im5.ezgif.com/tmp/ezgif-5-ca559322a1.gif)
 
