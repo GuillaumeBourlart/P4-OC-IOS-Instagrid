@@ -9,7 +9,7 @@ Instagrid lets you choose photos from your iPhone library, combine them within d
 
 1. Pick photos from your library
 
-![pick photos from your library](https://im5.ezgif.com/tmp/ezgif-5-89f247055a.gif)
+![pick photos from your library](https://im5.ezgif.com/tmp/ezgif-5-e04e930399.gif)
 
 
 2. Share or use your creation
