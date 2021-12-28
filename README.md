@@ -1,23 +1,25 @@
-# P4 presentation
+# iOs developper - project 4
+
 4th project of openclassroms formation
 
 # What is Instagrid ?
 
-Instagrid lets you choose photos from your iPhone library, combine them within different layouts and share your creation with your friends.
+Instagrid allows you to combine some differents photos from your libraby in different layouts, and to use the result
 
-# How does it look like ?
+# How does it work ?
 
-1. Pick photos from your library
+1. First choose a layout
+
+![chooseLayout](https://im5.ezgif.com/tmp/ezgif-5-ca559322a1.gif)
+
+2. Then pick photos from your library
 
 ![pick photos from your library](https://im5.ezgif.com/tmp/ezgif-5-19e8b3788d.gif)
 
 
-2. Share or use your creation
+3. Finally, share or save the final result
 
 ![addToContact](https://im5.ezgif.com/tmp/ezgif-5-b8ec170286.gif)
 
 
-3. Choose a layout
-
-![chooseLayout](https://im5.ezgif.com/tmp/ezgif-5-ca559322a1.gif)
 
