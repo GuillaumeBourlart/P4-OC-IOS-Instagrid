@@ -20,7 +20,7 @@ Instagrid allows you to combine some differents photos from your libraby in diff
 
 3. Finally, share or save the final result
 
-![addToContact](https://im5.ezgif.com/tmp/ezgif-5-b8ec170286.gif)
+![Finally, share or save the final result](https://im5.ezgif.com/tmp/ezgif-5-b8ec170286.gif)
 
 
 
