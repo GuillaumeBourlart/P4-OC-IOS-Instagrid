@@ -84,6 +84,19 @@
 /* End PBXFrameworksBuildPhase section */
 
 /* Begin PBXGroup section */
+		D0825D4A277D2C0B00DC1CDC /* Supporting Files */ = {
+			isa = PBXGroup;
+			children = (
+				D09126C32767E6D800702EC3 /* Assets.xcassets */,
+				D09429E32769379900454021 /* Info.plist */,
+				D09429CE2769228900454021 /* ThirstySoftRegular.otf */,
+				D09429D02769229400454021 /* Delm-Medium.otf */,
+				D09126BA2767E6D600702EC3 /* AppDelegate.swift */,
+				D09126BC2767E6D600702EC3 /* SceneDelegate.swift */,
+			);
+			path = "Supporting Files";
+			sourceTree = "<group>";
+		};
 		D09126AE2767E6D500702EC3 = {
 			isa = PBXGroup;
 			children = (
@@ -107,16 +120,11 @@
 		D09126B92767E6D600702EC3 /* Instagrid v3 */ = {
 			isa = PBXGroup;
 			children = (
-				D09126BA2767E6D600702EC3 /* AppDelegate.swift */,
-				D09126BC2767E6D600702EC3 /* SceneDelegate.swift */,
-				D09126BE2767E6D600702EC3 /* ViewController.swift */,
-				D09429CE2769228900454021 /* ThirstySoftRegular.otf */,
-				D09429D02769229400454021 /* Delm-Medium.otf */,
-				D09126EA2767E85400702EC3 /* app.swift */,
-				D09126C02767E6D600702EC3 /* Main.storyboard */,
-				D09126C32767E6D800702EC3 /* Assets.xcassets */,
-				D09126C52767E6D800702EC3 /* LaunchScreen.storyboard */,
-				D09429E32769379900454021 /* Info.plist */,
+				D0825D4A277D2C0B00DC1CDC /* Supporting Files */,
+				D0C52CA8277DDE0800A8ED2E /* LaunchScreen */,
+				D09673EF277CADE700FE2109 /* Model */,
+				D09673F0277CADF800FE2109 /* Controller */,
+				D09673F2277CAE2600FE2109 /* View */,
 			);
 			path = "Instagrid v3";
 			sourceTree = "<group>";
@@ -136,6 +144,38 @@
 				D09126DD2767E6D800702EC3 /* Instagrid_v3UITestsLaunchTests.swift */,
 			);
 			path = "Instagrid v3UITests";
+			sourceTree = "<group>";
+		};
+		D09673EF277CADE700FE2109 /* Model */ = {
+			isa = PBXGroup;
+			children = (
+				D09126EA2767E85400702EC3 /* app.swift */,
+			);
+			path = Model;
+			sourceTree = "<group>";
+		};
+		D09673F0277CADF800FE2109 /* Controller */ = {
+			isa = PBXGroup;
+			children = (
+				D09126BE2767E6D600702EC3 /* ViewController.swift */,
+			);
+			path = Controller;
+			sourceTree = "<group>";
+		};
+		D09673F2277CAE2600FE2109 /* View */ = {
+			isa = PBXGroup;
+			children = (
+				D09126C02767E6D600702EC3 /* Main.storyboard */,
+			);
+			path = View;
+			sourceTree = "<group>";
+		};
+		D0C52CA8277DDE0800A8ED2E /* LaunchScreen */ = {
+			isa = PBXGroup;
+			children = (
+				D09126C52767E6D800702EC3 /* LaunchScreen.storyboard */,
+			);
+			path = LaunchScreen;
 			sourceTree = "<group>";
 		};
 /* End PBXGroup section */
@@ -457,13 +497,16 @@
 				CURRENT_PROJECT_VERSION = 1;
 				DEVELOPMENT_TEAM = 45SY58GRA8;
 				GENERATE_INFOPLIST_FILE = YES;
-				INFOPLIST_FILE = "Instagrid v3/Info.plist";
+				INFOPLIST_FILE = "Instagrid v3/Supporting Files/Info.plist";
+				INFOPLIST_KEY_CFBundleDisplayName = Instagrid;
+				INFOPLIST_KEY_NSPhotoLibraryUsageDescription = "This app needs to access you photos library";
 				INFOPLIST_KEY_UIApplicationSupportsIndirectInputEvents = YES;
 				INFOPLIST_KEY_UILaunchStoryboardName = LaunchScreen;
 				INFOPLIST_KEY_UIMainStoryboardFile = Main;
 				INFOPLIST_KEY_UISupportedInterfaceOrientations = "UIInterfaceOrientationPortrait UIInterfaceOrientationPortraitUpsideDown UIInterfaceOrientationLandscapeRight UIInterfaceOrientationLandscapeLeft";
 				INFOPLIST_KEY_UISupportedInterfaceOrientations_iPad = "UIInterfaceOrientationPortrait UIInterfaceOrientationPortraitUpsideDown UIInterfaceOrientationLandscapeLeft UIInterfaceOrientationLandscapeRight";
 				INFOPLIST_KEY_UISupportedInterfaceOrientations_iPhone = "UIInterfaceOrientationPortrait UIInterfaceOrientationLandscapeLeft UIInterfaceOrientationLandscapeRight";
+				IPHONEOS_DEPLOYMENT_TARGET = 15.0;
 				LD_RUNPATH_SEARCH_PATHS = (
 					"$(inherited)",
 					"@executable_path/Frameworks",
@@ -486,13 +529,16 @@
 				CURRENT_PROJECT_VERSION = 1;
 				DEVELOPMENT_TEAM = 45SY58GRA8;
 				GENERATE_INFOPLIST_FILE = YES;
-				INFOPLIST_FILE = "Instagrid v3/Info.plist";
+				INFOPLIST_FILE = "Instagrid v3/Supporting Files/Info.plist";
+				INFOPLIST_KEY_CFBundleDisplayName = Instagrid;
+				INFOPLIST_KEY_NSPhotoLibraryUsageDescription = "This app needs to access you photos library";
 				INFOPLIST_KEY_UIApplicationSupportsIndirectInputEvents = YES;
 				INFOPLIST_KEY_UILaunchStoryboardName = LaunchScreen;
 				INFOPLIST_KEY_UIMainStoryboardFile = Main;
 				INFOPLIST_KEY_UISupportedInterfaceOrientations = "UIInterfaceOrientationPortrait UIInterfaceOrientationPortraitUpsideDown UIInterfaceOrientationLandscapeRight UIInterfaceOrientationLandscapeLeft";
 				INFOPLIST_KEY_UISupportedInterfaceOrientations_iPad = "UIInterfaceOrientationPortrait UIInterfaceOrientationPortraitUpsideDown UIInterfaceOrientationLandscapeLeft UIInterfaceOrientationLandscapeRight";
 				INFOPLIST_KEY_UISupportedInterfaceOrientations_iPhone = "UIInterfaceOrientationPortrait UIInterfaceOrientationLandscapeLeft UIInterfaceOrientationLandscapeRight";
+				IPHONEOS_DEPLOYMENT_TARGET = 15.0;
 				LD_RUNPATH_SEARCH_PATHS = (
 					"$(inherited)",
 					"@executable_path/Frameworks",
